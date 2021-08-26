@@ -1,39 +1,44 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Panayiotis Nicolaides
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Associate and PhD Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: EU Tax Observatory
+  url: https://www.taxobservatory.eu
+- name: Paris School of Economics
+  url: https://www.parisschoolofeconomics.eu
+- name: Hertie School, Berlin
+  url: https://www.hertie-school.org
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public Economics
+- Taxation
+- Tax Enforcement
+- Applied Microeconomics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D in Economics
+    institution: Hertie School, Berlin
+    year: 2022
+  - course: M.Phil in Economics
+    institution: University of Oxford
+    year: 2013
+  - course: BA in Economics and Economic History
+    institution: University of Manchester
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +47,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: "mailto:pan.nicolaides@gmail.com"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  label: Follow me on Twitter
+  link: https://twitter.com/pnicolaides
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/panosni
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/panayiotis-nicolaides-07342242/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +73,12 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome! I am a Research Associate at the EU Tax Observatory and a PhD Researcher at the Hertie School in Berlin. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research focuses on public economics and taxation, in particular forms of tax compliance and policies to improve it. For my PhD, I have been analysing novel forms of third-party reporting using administrative data. You can find more in the research section.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My interests are guided closely by policy developments, having spent the first part of my career (2013-2018) in the core team of economists that managed the Greek economic crisis. You can find more details of my work dring that time in the policy section. 
+
+Part of my policy work continues to this day with setting up of the EU Tax Observatory in 2021. I direct its scintific work programme, coordinate research output and manage external academic/policy relations.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/nicolaides_cv_2108.pdf" "newtab" >}}CV{{< /staticref >}}.
