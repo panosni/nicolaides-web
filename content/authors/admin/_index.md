@@ -18,7 +18,7 @@ organizations:
   url: https://www.hertie-school.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -73,12 +73,12 @@ email: ""
 highlight_name: false
 ---
 
-Welcome! I am a Research Associate at the EU Tax Observatory and a PhD Researcher at the Hertie School in Berlin. 
+Welcome! 
 
-My research focuses on public economics and taxation, in particular forms of tax compliance and policies to improve it. For my PhD, I have been analysing novel forms of third-party reporting using administrative data. You can find more in the research section.
+I am a Research Associate at the EU Tax Observatory, Paris School of Economics and a PhD Researcher at the Hertie School, Berlin. 
 
-My interests are guided closely by policy developments, having spent the first part of my career (2013-2018) in the core team of economists that managed the Greek economic crisis. You can find more details of my work dring that time in the policy section. 
+My research focuses on public economics and taxation, in particular forms of tax compliance and policies to improve it. For my PhD, I have been analysing novel forms of third-party reporting using administrative data. You can find more in the {{< staticref "#research">}}research section{{< /staticref >}}.
 
-Part of my policy work continues to this day with setting up of the EU Tax Observatory in 2021. I direct its scintific work programme, coordinate research output and manage external academic/policy relations.
+My interests are guided closely by policy developments, having spent the first part of my career (2013-2019) managing the Greek economic crisis. Since 2021, I am setting up the EU Tax Observatory; I direct its scintific work programme, coordinate research output and manage external relations. You can find more in the {{< staticref "#policy">}}policy section{{< /staticref >}}. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/nicolaides_cv_2108.pdf" "newtab" >}}CV{{< /staticref >}}.

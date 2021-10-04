@@ -13,8 +13,8 @@ main:
   - name: Policy
     url: '#policy'
     weight: 30
-  - name: Projects
-    url: '#projects'
+  - name: Talks
+    url: '#talks'
     weight: 40
   - name: CV
     url: uploads/nicolaides_cv_2108.pdf
