@@ -24,6 +24,10 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
+#image: 
+ # caption: '[](https://www.taxobservatory.eu/wp-content/uploads/2021/08/all-speakers-poster-5.jpg)'
+ # focal_point: Right
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -31,5 +35,7 @@ featured: false
 #   Otherwise, set `projects = []`.
 projects:
 - url: https://www.taxobservatory.eu/have-european-banks-left-tax-havens-evidence-from-country-by-country-data/
+
+
 
 ---

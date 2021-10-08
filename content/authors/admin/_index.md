@@ -79,6 +79,6 @@ I am a Research Associate at the EU Tax Observatory, Paris School of Economics a
 
 My research focuses on public economics and taxation, in particular forms of tax compliance and policies to improve it. For my PhD, I have been analysing novel forms of third-party reporting using administrative data. You can find more in the {{< staticref "#research">}}research section{{< /staticref >}}.
 
-My interests are guided closely by policy developments, having spent the first part of my career (2013-2019) managing the Greek economic crisis. Since 2021, I am setting up the EU Tax Observatory; I direct its scintific work programme, coordinate research output and manage external relations. You can find more in the {{< staticref "#policy">}}policy section{{< /staticref >}}. 
+My interests are guided closely by policy developments, having spent the first part of my career (2013-2019) managing the Greek economic crisis. Since 2021, I am setting up the EU Tax Observatory; I direct its scientific programme, coordinate research output and manage external relations. You can find more in the {{< staticref "#policy">}}policy section{{< /staticref >}}. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/nicolaides_cv_2108.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/nicolaides_cv_10_21.pdf" "newtab" >}}CV{{< /staticref >}}.

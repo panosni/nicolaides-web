@@ -1,5 +1,5 @@
 ---
-title: In discussion with Panayiotis Nicolaides - The EU Tax Observatory, Our mission
+title: "In discussion with Panayiotis Nicolaides: The EU Tax Observatory, Our mission"
 
 event: Amsterdam Centre for Tax Law - CPT Project
 event_url: https://actl.uva.nl/cpt-project/cpt-project.html
@@ -14,11 +14,11 @@ location: Online
 
 
 date: "2021-12-15T16:00:00Z"
-#event_end: "2021-12-15T17:00:00Z"
+date_end: "2021-12-15T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
