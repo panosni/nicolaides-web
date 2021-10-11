@@ -73,9 +73,7 @@ email: ""
 highlight_name: false
 ---
 
-Welcome! 
-
-I am a Research Associate at the EU Tax Observatory, Paris School of Economics and a PhD Researcher at the Hertie School, Berlin. 
+Welcome! I am a Research Associate at the EU Tax Observatory, Paris School of Economics and a PhD Researcher at the Hertie School, Berlin. 
 
 My research focuses on public economics and taxation, in particular forms of tax compliance and policies to improve it. For my PhD, I have been analysing novel forms of third-party reporting using administrative data. You can find more in the {{< staticref "#research">}}research section{{< /staticref >}}.
 

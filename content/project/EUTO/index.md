@@ -1,33 +1,37 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: EU Tax Observatory
+summary: The EU Tax Observatory is an independent research laboratory hosted at the Paris School of Economics. It conducts innovative research on taxation, contributes to a democratic and inclusive debate on the future of taxation, and fosters a dialogue between the scientific community, civil society, and policymakers in the European Union and worldwide. I have been part of its inaugural team since February 2021, setting it up, directing its research programme and managing contacts with external stakeholders. We expect to establish the Observatory as the leading reference point for tax evasion and tax avoidance research in the EU.
+
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Taxation
+
+date: "2021-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.taxobservatory.eu"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ''
   focal_point: Smart
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/taxobservatory
 url_code: ""
-url_pdf: ""
+#url_pdf: ""
 url_slides: ""
 url_video: ""
+
+url_pdf: "EUTO.pdf"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.

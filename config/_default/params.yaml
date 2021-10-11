@@ -7,8 +7,9 @@
 
 theme: minimal
 day_night: true
-font: ''
-font_size: xs
+font: 'minimal'
+font_size: s
+
 
 # SEO
 
