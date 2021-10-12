@@ -5,7 +5,7 @@
 
 title: Panayiotis Nicolaides # Website name
 baseurl: 'https://nicolaides.github.io' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Panayiotis Nicolaides' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

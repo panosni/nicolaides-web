@@ -1,8 +1,8 @@
 ---
-title: Banks CbCR Report - Presentation of the EU Tax Observatory and its Missions
+title: "Panel Discussion - Global Tax Avoidance and Tax Evasion: What we do not know"
 
-event: European Banks in Tax Havens - Evidence and Countermeasures
-event_url: https://www.taxobservatory.eu/event/online-conference-still-in-tax-havens-the-use-of-offshore-financial-centres-by-european-banks/
+event: The Fiscal and Distributional Consequences of Global Tax Avoidance and Tax Evasion
+event_url: https://global-tax-avoidance.ec.europa.eu/index_en
 
 location: Online
 
@@ -11,8 +11,8 @@ location: Online
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-08T12:30:00Z"
-date_end: "2021-09-08T14:00:00Z"
+date: "2021-09-27T16:00:00Z"
+date_end: "2021-09-27T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -24,7 +24,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-url_video: 'https://www.youtube.com/watch?v=X1bTZhCbnSY'
+url_video: 'https://tax-avoidance-and-evasion-conference-2021.com/Paris1/EuTax/2021-09-27_1/'
 
 #image: 
  # caption: '[](https://www.taxobservatory.eu/wp-content/uploads/2021/08/all-speakers-poster-5.jpg)'
@@ -36,7 +36,7 @@ url_video: 'https://www.youtube.com/watch?v=X1bTZhCbnSY'
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- url: 'https://www.taxobservatory.eu/have-european-banks-left-tax-havens-evidence-from-country-by-country-data/'
+- url: https://tax-avoidance-and-evasion-conference-2021.com/Paris1/EuTax/2021-09-27_1/
 
 
 

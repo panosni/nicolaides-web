@@ -7,10 +7,10 @@ widget: pages
 headless: true
 active: false
 # Order that this section appears on the page.
-weight: 60
+weight: 70
 
-title: Recent Posts
-subtitle:
+title: "Everything in-between:"
+subtitle: Some moments from work and with colleagues
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -32,10 +32,12 @@ content:
   order: desc
 
 design:
+  columns: '1'
+
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 5
 ---
