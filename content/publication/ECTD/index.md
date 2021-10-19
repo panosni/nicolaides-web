@@ -32,5 +32,5 @@ header:
   image: "featured.pdf"
 
 url_slides: 'ECTDslides.pdf'
-url_code: "https://github.com/panosni/ECTD"
+url_code:  "https://github.com/panosni/ECTD"
 ---
