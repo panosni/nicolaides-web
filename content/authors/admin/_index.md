@@ -6,7 +6,7 @@ title: Panayiotis Nicolaides
 superuser: true
 
 # Role/position/tagline
-role: Research Associate and PhD Researcher
+role: Director of Research (EU Tax Observatory) and PhD Researcher (Hertie School, Berlin)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -74,10 +74,10 @@ highlight_name: false
 
 ---
 
-Welcome! I am a Research Associate at the EU Tax Observatory, Paris School of Economics and a PhD Researcher at the Hertie School, Berlin. My work focuses on public economics and taxation, in particular forms of tax compliance and policies to improve it. 
+Welcome! I am Director of Research at the EU Tax Observatory, Paris School of Economics and PhD Researcher at the Hertie School, Berlin. I specialise in public economics and taxation, in particular tax compliance and the empirical analysis of tax policy using administrative data.
 
-In my latest research, I have been analysing novel forms of third-party reporting policies using administrative data to determine how they affect economic behaviour and if they improve state revenue. You can find recent papers and ongoing projects in the {{< staticref "#research">}}research section{{< /staticref >}}.
+I am on the market for Assistant Professor positions in 2022-2023 and available for interviews at EJM and ASSA meetings. {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/nicolaides_cv_4_22.pdf" "newtab" >}}CV here{{< /staticref >}}.
 
-My interests are guided closely by policy developments, having spent the first part of my career (2013-2019) managing the Greek economic crisis. Since 2021, I have been setting up the EU Tax Observatory; I direct its scientific programme, coordinate research output and manage external relations. You can find more in the {{< staticref "#policy">}}policy section{{< /staticref >}}. 
+My research uses administrative data and utilises discontinuities, exemptions and cut-offs created by policy to provide empirical evidence on economic behaviour and to estimate the effect on government revenue. Topics include novel forms of third-party reporting policy, tax lotteries and VAT incidence. You can find recent papers and ongoing projects in the {{< staticref "#research">}}research section{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/nicolaides_cv_10_21.pdf" "newtab" >}}CV{{< /staticref >}}.
+The majority of my work is guided closely by policy developments, having spent the first part of my career (2013-2019) managing the Greek economic crisis in Brussels and Athens. Since 2021, I have been setting up the EU Tax Observatory in Paris; I direct its scientific programme, coordinate research output and manage relations with external stakeholders. You can find more in the {{< staticref "#policy">}}policy section{{< /staticref >}}. 

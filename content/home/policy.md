@@ -17,5 +17,5 @@ date_format: Jan 2006
 
 
 design:
-  columns: '2'
+  columns: '1'
 ---
