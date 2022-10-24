@@ -30,9 +30,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D in Economics
+  - course: Ph.D in Governance
     institution: Hertie School, Berlin
-    year: 2022
+    year: 2023 (expected)
   - course: M.Phil in Economics
     institution: University of Oxford
     year: 2013
