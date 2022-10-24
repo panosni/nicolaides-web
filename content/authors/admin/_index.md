@@ -30,7 +30,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D in Governance
+  - course: Ph.D 
     institution: Hertie School, Berlin
     year: 2023 (expected)
   - course: M.Phil in Economics
@@ -76,7 +76,7 @@ highlight_name: false
 
 Welcome! I am Director of Research at the EU Tax Observatory, Paris School of Economics and PhD Researcher at the Hertie School, Berlin. I specialise in public economics and taxation, in particular tax compliance and the empirical analysis of tax policy using administrative data.
 
-I am on the market for Assistant Professor positions in 2022-2023 and available for interviews at EJM and ASSA meetings. {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/nicolaides_cv_4_22.pdf" "newtab" >}}CV here{{< /staticref >}}.
+I am on the market for Assistant Professor positions in 2022-2023 and available for interviews at EJM and ASSA meetings. {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV here{{< /staticref >}}.
 
 My research uses administrative data and utilises discontinuities, exemptions and cut-offs created by policy to provide empirical evidence on economic behaviour and to estimate the effect on government revenue. Topics include novel forms of third-party reporting policy, tax lotteries and VAT incidence. You can find recent papers and ongoing projects in the {{< staticref "#research">}}research section{{< /staticref >}}.
 
