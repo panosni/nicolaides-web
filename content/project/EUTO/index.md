@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 title: EU Tax Observatory
 summary: The EU Tax Observatory is an independent research laboratory hosted at the Paris School of Economics. It conducts innovative research on taxation, contributes to a democratic and inclusive debate on the future of taxation, and fosters a dialogue between the scientific community, civil society, and policymakers in the European Union and worldwide. I have been part of its inaugural team since February 2021, setting it up, directing its research programme and managing contacts with external stakeholders. We expect to establish the Observatory as the leading reference point for tax evasion and tax avoidance research in the EU.
 
