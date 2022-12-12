@@ -24,7 +24,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-# url_video: 
+url_video: https://lkyspp.nus.edu.sg/ips/events/details/asia-voices-perspectives-on-tax-policy-seminar-2022
 
 #image: 
  # caption: '[](https://www.taxobservatory.eu/wp-content/uploads/2021/08/all-speakers-poster-5.jpg)'

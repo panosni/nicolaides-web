@@ -21,11 +21,10 @@ links:
   name: Follow
   url: https://twitter.com/taxobservatory
 url_code: ""
-#url_pdf: ""
 url_slides: ""
 url_video: ""
 
-url_pdf: "EUTO.pdf"
+#url_pdf: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
