@@ -58,6 +58,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/panayiotis-nicolaides-07342242/
+- icon: mastodon
+  icon_pack: fab
+  link: https://econtwitter.net/@pnicolaides
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
