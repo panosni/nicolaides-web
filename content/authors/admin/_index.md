@@ -6,7 +6,7 @@ title: Panayiotis Nicolaides
 superuser: true
 
 # Role/position/tagline
-role: Director of Research (EU Tax Observatory) and PhD Researcher (Hertie School, Berlin)
+role: Director of Research, EU Tax Observatory
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,8 +14,8 @@ organizations:
   url: https://www.taxobservatory.eu
 - name: Paris School of Economics
   url: https://www.parisschoolofeconomics.eu
-- name: Hertie School, Berlin
-  url: https://www.hertie-school.org
+#- name: Hertie School, Berlin
+#  url: https://www.hertie-school.org
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -77,7 +77,7 @@ highlight_name: false
 
 ---
 
-Welcome! I am Director of Research at the EU Tax Observatory, Paris School of Economics and PhD Researcher at the Hertie School, Berlin. I specialise in public economics and taxation, in particular tax compliance and the empirical analysis of tax policy using administrative data.
+Welcome! I am Director of Research at the EU Tax Observatory, Paris School of Economics. I specialise in public economics and taxation, in particular tax compliance and the empirical analysis of tax policy using administrative data.
 
 My research uses administrative data and utilises discontinuities, exemptions and cut-offs created by policy to provide empirical evidence on economic behaviour and to estimate the effect on government revenue. Topics include novel forms of third-party reporting policy, tax lotteries and VAT incidence. You can find recent papers and ongoing projects in the {{< staticref "#research">}}research section{{< /staticref >}}.
 

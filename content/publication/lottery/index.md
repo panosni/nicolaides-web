@@ -2,7 +2,7 @@
 title: Publications
 cms_exclude: true
 
-title: "Winning the Tax Lottery: Evidence from a Superdraw on Christmas Eve (_Job Market Paper_)"
+title: "Winning the Tax Lottery: Evidence from a Superdraw on Christmas Eve"
 date: 2022-10-01
 #publishDate: 2022-01-05T20:13:52.623034Z
 #authors: ["", ""]
@@ -14,7 +14,7 @@ abstract: "This paper studies a tax lottery in Greece and documents an increase 
 I estimate that regional VAT revenue increased by 0.01% per additional winner (or by EUR 2,700 compared to a EUR 1,000 winning prize). This effect can be explained through winners, who increased their electronic consumption by 14%. Lasting for five months, this channel alone cannot explain the entire VAT effect. A second channel is documented through spillover effects from winners to non-winners. The lottery's positive outcome demonstrates the potential of electronic payments to raise tax revenue."
 
 featured: true
-publication: "Job Market Paper"
+publication: ""
 url_pdf: lottery.pdf
 links: 
 #- name: Online Appendix
