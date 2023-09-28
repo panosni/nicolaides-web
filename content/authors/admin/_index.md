@@ -30,13 +30,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D 
+  - course: Dr. rer. pol. Essays on the Economics of Taxation
     institution: Hertie School, Berlin
-    year: 2023 (expected)
+    year: 2023 
   - course: M.Phil in Economics
     institution: University of Oxford
     year: 2013
-  - course: BA in Economics and Economic History
+  - course: BA(Hons) in Economics and Economic History
     institution: University of Manchester
     year: 2011
 
