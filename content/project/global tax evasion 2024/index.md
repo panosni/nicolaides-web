@@ -1,7 +1,7 @@
 ---
-weight: 2
-title: EU Tax Observatory
-summary: The EU Tax Observatory is an independent research laboratory hosted at the Paris School of Economics. It conducts innovative research on taxation, contributes to a democratic and inclusive debate on the future of taxation, and fosters a dialogue between the scientific community, civil society, and policymakers in the European Union and worldwide. I have been part of its inaugural team since February 2021, setting it up, directing its research programme and managing contacts with external stakeholders. We have established the Observatory as the leading reference point for tax evasion and tax avoidance research in the EU.
+weight: 1
+title: Global Tax Evasion Report 2024 (with Annette Alstadsæter, Sarah Godar and Gabriel Zucman)
+summary: Over the last 10 years, governments have launched major initiatives to reduce international tax evasion. Yet despite the importance of these developments, little is known about the effects of these new policies. Is global tax evasion falling or rising? Are new issues emerging, and if so, what are they? This report addresses these questions thanks to an unprecedented international research collaboration building on the work of more than 100 researchers globally.
 
 tags:
 - Taxation
@@ -9,22 +9,22 @@ tags:
 date: "2021-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.taxobservatory.eu"
+external_link: "https://www.taxobservatory.eu/publication/global-tax-evasion-report-2024/"
 
 image:
   caption: ''
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/taxobservatory
+#links:
+#icon: twitter
+  #icon_pack: fab
+  #name: Follow
+  #url: https://www.taxobservatory.eu/publication/global-tax-evasion-report-2024/
 url_code: ""
 url_slides: ""
 url_video: ""
 
-#url_pdf: ""
+url_pdf: "global_tax_evasion_report_24.pdf"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

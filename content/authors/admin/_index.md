@@ -30,7 +30,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Dr. rer. pol. Essays on the Economics of Taxation
+  - course: Dr. rer. pol. (eqv. PhD) Essays on the Economics of Taxation
     institution: Hertie School, Berlin
     year: 2023 
   - course: M.Phil in Economics
