@@ -2,16 +2,16 @@
 title: Publications
 cms_exclude: true
 
-title: "Corporate Tax Responses to a VAT Increase: Evidence from the Greek Islands"
-date: 2020-10-01
-#publishDate: 2021-01-05T20:13:52.623034Z
-authors: ["Evangelos Koumanakos", "George Kolias", "Jules Ducept", "Alexandre Gnaedinger"]
+title: "Consumption Taxes and Corporate Income Taxes: Evidence from Place-based VAT"
+date: 2023-12-12
+#publishDate: 2023-12-12T20:13:52.623034Z
+authors: ["Jules Ducept", "Evangelos Koumanakos", "Panayiotis Nicolaides"]
 publication_types: ["3"]
-summary: "_Currently at analysis phase_. We exploit the repeal of preferential VAT rates (from 17% to 24%) in Greek islands during the Greek economic crisis to investigate responses of firms to corporate taxes and tax avoidance. The repeal time and choice of islands was unanticipated. We combine the universe of corporate tax returns with Orbis data to construct a control group of corporations located in islands not subject to the preferential VAT rate (always at 24%). We document a decrease in sales, profits and taxes reported in annual tax returns. This suggest that a VAT rate increase might lead to second-round effects through lower consumer demand and lower profits for firms."
+summary: "Using a quasi-experimental setting, we document that corporations decrease declared profits and corporate income taxes in response to an increase in the VAT rate. In an attempt to raise tax revenue during the Greek economic crisis, a 16% VAT rate, which existed for historicopolitical reasons in Greek islands, was harmonised to the national 24% rate. We combine tax filings with Orbis and ICAP data that enable us to geolocate corporations and to construct comparable groups based on locations in or out of the preferential rate. Counteracting the reform's intended effect, declared profits decreased by 28% and corporate income taxes by 34% on a permanent basis. Macroeconomic factors and a fall in reported revenue cannot fully explain this decrease. Pervasive tax evasion in the Greek islands, where corporations might have an opportunity to adjust profits, offers a plausible explanation of the magnitude of responses."
 
-abstract: ""
+abstract: "Using a quasi-experimental setting, we document that corporations decrease declared profits and corporate income taxes in response to an increase in the VAT rate. In an attempt to raise tax revenue during the Greek economic crisis, a 16% VAT rate, which existed for historicopolitical reasons in Greek islands, was harmonised to the national 24% rate. We combine tax filings with Orbis and ICAP data that enable us to geolocate corporations and to construct comparable groups based on locations in or out of the preferential rate. Counteracting the reform's intended effect, declared profits decreased by 28% and corporate income taxes by 34% on a permanent basis. Macroeconomic factors and a fall in reported revenue cannot fully explain this decrease. Pervasive tax evasion in the Greek islands, where corporations might have an opportunity to adjust profits, offers a plausible explanation of the magnitude of responses."
 featured: true
-publication: "_Currently at analysis phase_. We exploit the repeal of preferential VAT rates (from 17% to 24%) in Greek islands during the Greek economic crisis to investigate responses of firms to corporate taxes and tax avoidance. The repeal time and choice of islands was unanticipated. We combine the universe of corporate tax returns with Orbis data to construct a control group of corporations located in islands not subject to the preferential VAT rate (always at 24%). We document a decrease in sales, profits and taxes reported in annual tax returns. This suggest that a VAT rate increase might lead to second-round effects through lower consumer demand and lower profits for firms."
+
 # url_pdf: 
 links: 
 #- name: Online Appendix
@@ -29,7 +29,7 @@ featured: true
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "featured.pdf"
+  image: "featured.jpg"
 
 #url_slides: 'ECTDslides.pdf'
 #url_code:  "https://github.com/panosni/ECTD"
